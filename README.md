@@ -12,7 +12,7 @@ Initially decided to go with Logistic Regression, but the model did not perform 
 
 ## Result
 Accuracy is not a good performance measure due to the imbalanced nature of the data hence used AUC score. 
-Tuned CatBoost classifier achived:
+Tuned CatBoost classifier achieved:
 ### AUC: 0.724
 
 
